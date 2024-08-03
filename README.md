@@ -40,6 +40,7 @@ Mais informações em:
 ## Deploy
 
 O serviço está disponível em: http://django-music-weather-env.eba-ab5zvx7k.us-west-2.elasticbeanstalk.com
+(Database para token pausado em 03/08/2024)
 
 ## Licença
 
