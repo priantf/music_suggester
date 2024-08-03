@@ -31,8 +31,11 @@ Mais informações em:
 - Endpoint: `/weather/doc/`
 - Método: GET
 
-curl -X POST <URL_RAIZ>/api/token/ -d "username=seu_usuario&password=sua_senha"
-curl -H "Authorization: Bearer <seu_token_de_acesso>" <URL_RAIZ>/weather/suggest/<city_name>/
+## Como requisitar aplicação com CURL
+
+- curl -X POST <URL_RAIZ>/api/token/ -d "username=seu_usuario&password=sua_senha"
+
+- curl -H "Authorization: Bearer <seu_token_de_acesso>" <URL_RAIZ>/weather/suggest/<city_name>/
 
 ## Deploy
 
