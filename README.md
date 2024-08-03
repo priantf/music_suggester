@@ -4,6 +4,11 @@
 
 Serviço que sugere músicas com base na temperatura da cidade fornecida pelo usuário.
 
+## Criar migrations localmente para o auth
+- python manage.py migrate
+- python manage.py createsuperuser
+
+
 ## Como Usar
 
 - Endpoint: `api/token/`
