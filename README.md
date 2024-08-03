@@ -10,7 +10,7 @@ Serviço que sugere músicas com base na temperatura da cidade fornecida pelo us
 
 ## Comandos para rodar testes
 - python manage.py test
-- 
+
 ## Comandos para rodar localmente
 - python manage.py runserver
   
